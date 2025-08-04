@@ -1,0 +1,13 @@
+Hyperparameters found using RandomSearchCV 
+
+Best hyperparameters: KNN{'n_neighbors': 29, 'p': 1, 'weights': 'uniform'}						
+
+Best hyperparameters MLP: {'activation': 'logistic', 'alpha': 0.008065429868602328, hidden_layer_sizes': (64, 32), 'learning_rate_init': 0.07896910002727693, 'solver': 'adam'}						
+
+Best hyperparameters Decision Tree: {'criterion': 'gini', 'max_depth': 3, 'min_samples_leaf': 2, 'min_samples_split': 7, 'splitter': 'best'}
+
+Best hyperparameters RandomForest: {'criterion': 'gini', 'max_depth': 5, 'max_features': 'sqrt', 'min_samples_leaf': 2, 'min_samples_split': 3, 'n_estimators': 58}
+
+Best hyperparameters Gradient Boosting: {'criterion': 'squared_error', 'learning_rate': 0.017625738023228556, 'loss': 'log_loss', 'max_depth': 4, 'min_samples_split': 8, 'n_estimators': 145, 'subsample': 0.890923123379134}									
+
+The remaining hyperparameters of each ML model are set by default.
