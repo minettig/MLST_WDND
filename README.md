@@ -1,2 +1,2 @@
 # MLST_WDND
-
+Dataset used by the Machine Learning Seeding Tool (MLST), a data-driven approach that leverages supervised learning to enhance solution initialization to predict high-performing initial solutions. The framework is proven through its application to the Water Distribution Network Design (WDND) problem, where feasibility constraints pose significant computational challenges. Five classification algorithms (k-NN, MLP, DT, RF, and XGBoost) are trained on historical WDND solutions, emerging  XGBoost as the best predictor (68% accuracy, 0.20 macro precision) and enabling MLST to generate initial solutions that reduce the Total Investment Cost (TIC) by 37–55% compared to conventional maximum-diameter heuristics.
