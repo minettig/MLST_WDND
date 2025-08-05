@@ -8,5 +8,6 @@ The first five columns correspond to the predictor variables and the last column
 
 
 # References
-[1] Paper to publish in CACIC 2025
+[1] Paper to publish in CACIC 2025.
+
 [2} A. De Corte and K. S¨orensen, “An iterated local search algorithm for water distribution network design optimization,” Network, vol. 67, no. 3, pp. 187–198, 2016.
